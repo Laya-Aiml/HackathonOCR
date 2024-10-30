@@ -1,0 +1,2096 @@
+{
+	"status": "succeeded",
+	"createdDateTime": "2024-10-29T07:48:22Z",
+	"lastUpdatedDateTime": "2024-10-29T07:48:25Z",
+	"analyzeResult": {
+		"apiVersion": "2022-08-31",
+		"modelId": "prescription",
+		"stringIndexType": "utf16CodeUnit",
+		"content": "PRESCRIPTION Dr. Mark Smiths\nPatient Name\nLayanth\nAddress\nKarur\nDate\n15-10-24\nInsurance\nNO\nDiagnosis\ncold\nAge\n15\nT. Homin T. P500\nonce a day\ntwice a day\n1. Moxiking CV\nOnce a day\nsignature\nMark\nHOSPITAL ST. MARIA\n454 LAKE AVE. WORCESTER, MAINE DIG04\nPHONE: (508) 752-5525, HOSPITALHAMEDMAIL.COM WWW.\nSPITALNAME.COM",
+		"pages": [
+			{
+				"pageNumber": 1,
+				"angle": -0.6875,
+				"width": 860,
+				"height": 1134,
+				"unit": "pixel",
+				"words": [
+					{
+						"content": "PRESCRIPTION",
+						"polygon": [
+							416,
+							27,
+							587,
+							27,
+							587,
+							52,
+							416,
+							52
+						],
+						"confidence": 0.991,
+						"span": {
+							"offset": 0,
+							"length": 12
+						}
+					},
+					{
+						"content": "Dr.",
+						"polygon": [
+							405,
+							59,
+							439,
+							59,
+							439,
+							83,
+							405,
+							83
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 13,
+							"length": 3
+						}
+					},
+					{
+						"content": "Mark",
+						"polygon": [
+							444,
+							59,
+							509,
+							58,
+							509,
+							83,
+							444,
+							83
+						],
+						"confidence": 0.991,
+						"span": {
+							"offset": 17,
+							"length": 4
+						}
+					},
+					{
+						"content": "Smiths",
+						"polygon": [
+							516,
+							58,
+							609,
+							57,
+							609,
+							83,
+							516,
+							83
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 22,
+							"length": 6
+						}
+					},
+					{
+						"content": "Patient",
+						"polygon": [
+							83,
+							202,
+							138,
+							201,
+							138,
+							219,
+							84,
+							221
+						],
+						"confidence": 0.809,
+						"span": {
+							"offset": 29,
+							"length": 7
+						}
+					},
+					{
+						"content": "Name",
+						"polygon": [
+							141,
+							201,
+							188,
+							201,
+							188,
+							217,
+							142,
+							219
+						],
+						"confidence": 0.979,
+						"span": {
+							"offset": 37,
+							"length": 4
+						}
+					},
+					{
+						"content": "Layanth",
+						"polygon": [
+							226,
+							187,
+							375,
+							181,
+							376,
+							217,
+							224,
+							215
+						],
+						"confidence": 0.714,
+						"span": {
+							"offset": 42,
+							"length": 7
+						}
+					},
+					{
+						"content": "Address",
+						"polygon": [
+							87,
+							228,
+							145,
+							226,
+							145,
+							243,
+							87,
+							245
+						],
+						"confidence": 0.97,
+						"span": {
+							"offset": 50,
+							"length": 7
+						}
+					},
+					{
+						"content": "Karur",
+						"polygon": [
+							249,
+							219,
+							332,
+							219,
+							333,
+							243,
+							248,
+							242
+						],
+						"confidence": 0.96,
+						"span": {
+							"offset": 58,
+							"length": 5
+						}
+					},
+					{
+						"content": "Date",
+						"polygon": [
+							84,
+							251,
+							119,
+							250,
+							120,
+							269,
+							85,
+							270
+						],
+						"confidence": 0.986,
+						"span": {
+							"offset": 64,
+							"length": 4
+						}
+					},
+					{
+						"content": "15-10-24",
+						"polygon": [
+							220,
+							244,
+							373,
+							244,
+							373,
+							268,
+							220,
+							269
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 69,
+							"length": 8
+						}
+					},
+					{
+						"content": "Insurance",
+						"polygon": [
+							451,
+							201,
+							527,
+							200,
+							527,
+							216,
+							450,
+							217
+						],
+						"confidence": 0.765,
+						"span": {
+							"offset": 78,
+							"length": 9
+						}
+					},
+					{
+						"content": "NO",
+						"polygon": [
+							631,
+							190,
+							662,
+							187,
+							665,
+							211,
+							633,
+							213
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 88,
+							"length": 2
+						}
+					},
+					{
+						"content": "Diagnosis",
+						"polygon": [
+							451,
+							224,
+							526,
+							223,
+							527,
+							246,
+							451,
+							246
+						],
+						"confidence": 0.989,
+						"span": {
+							"offset": 91,
+							"length": 9
+						}
+					},
+					{
+						"content": "cold",
+						"polygon": [
+							621,
+							219,
+							684,
+							218,
+							685,
+							241,
+							622,
+							242
+						],
+						"confidence": 0.989,
+						"span": {
+							"offset": 101,
+							"length": 4
+						}
+					},
+					{
+						"content": "Age",
+						"polygon": [
+							451,
+							253,
+							487,
+							252,
+							488,
+							275,
+							451,
+							276
+						],
+						"confidence": 0.984,
+						"span": {
+							"offset": 106,
+							"length": 3
+						}
+					},
+					{
+						"content": "15",
+						"polygon": [
+							633,
+							246,
+							660,
+							244,
+							662,
+							267,
+							634,
+							269
+						],
+						"confidence": 0.929,
+						"span": {
+							"offset": 110,
+							"length": 2
+						}
+					},
+					{
+						"content": "T.",
+						"polygon": [
+							161,
+							360,
+							199,
+							358,
+							199,
+							396,
+							160,
+							398
+						],
+						"confidence": 0.819,
+						"span": {
+							"offset": 113,
+							"length": 2
+						}
+					},
+					{
+						"content": "Homin",
+						"polygon": [
+							267,
+							355,
+							411,
+							357,
+							413,
+							390,
+							267,
+							394
+						],
+						"confidence": 0.946,
+						"span": {
+							"offset": 116,
+							"length": 5
+						}
+					},
+					{
+						"content": "T.",
+						"polygon": [
+							156,
+							430,
+							207,
+							427,
+							206,
+							467,
+							156,
+							469
+						],
+						"confidence": 0.66,
+						"span": {
+							"offset": 122,
+							"length": 2
+						}
+					},
+					{
+						"content": "P500",
+						"polygon": [
+							243,
+							426,
+							341,
+							428,
+							338,
+							466,
+							242,
+							466
+						],
+						"confidence": 0.626,
+						"span": {
+							"offset": 125,
+							"length": 4
+						}
+					},
+					{
+						"content": "once",
+						"polygon": [
+							631,
+							351,
+							704,
+							349,
+							704,
+							383,
+							630,
+							382
+						],
+						"confidence": 0.97,
+						"span": {
+							"offset": 130,
+							"length": 4
+						}
+					},
+					{
+						"content": "a",
+						"polygon": [
+							723,
+							348,
+							746,
+							347,
+							746,
+							384,
+							723,
+							384
+						],
+						"confidence": 0.986,
+						"span": {
+							"offset": 135,
+							"length": 1
+						}
+					},
+					{
+						"content": "day",
+						"polygon": [
+							765,
+							347,
+							829,
+							345,
+							830,
+							383,
+							765,
+							384
+						],
+						"confidence": 0.985,
+						"span": {
+							"offset": 137,
+							"length": 3
+						}
+					},
+					{
+						"content": "twice",
+						"polygon": [
+							619,
+							429,
+							715,
+							424,
+							715,
+							458,
+							618,
+							458
+						],
+						"confidence": 0.979,
+						"span": {
+							"offset": 141,
+							"length": 5
+						}
+					},
+					{
+						"content": "a",
+						"polygon": [
+							738,
+							423,
+							757,
+							423,
+							757,
+							458,
+							737,
+							458
+						],
+						"confidence": 0.908,
+						"span": {
+							"offset": 147,
+							"length": 1
+						}
+					},
+					{
+						"content": "day",
+						"polygon": [
+							764,
+							422,
+							825,
+							421,
+							825,
+							457,
+							764,
+							458
+						],
+						"confidence": 0.998,
+						"span": {
+							"offset": 149,
+							"length": 3
+						}
+					},
+					{
+						"content": "1.",
+						"polygon": [
+							138,
+							500,
+							182,
+							500,
+							182,
+							536,
+							137,
+							537
+						],
+						"confidence": 0.164,
+						"span": {
+							"offset": 153,
+							"length": 2
+						}
+					},
+					{
+						"content": "Moxiking",
+						"polygon": [
+							228,
+							500,
+							398,
+							503,
+							398,
+							536,
+							227,
+							536
+						],
+						"confidence": 0.725,
+						"span": {
+							"offset": 156,
+							"length": 8
+						}
+					},
+					{
+						"content": "CV",
+						"polygon": [
+							416,
+							504,
+							456,
+							505,
+							457,
+							536,
+							417,
+							536
+						],
+						"confidence": 0.979,
+						"span": {
+							"offset": 165,
+							"length": 2
+						}
+					},
+					{
+						"content": "Once",
+						"polygon": [
+							617,
+							496,
+							692,
+							489,
+							693,
+							523,
+							617,
+							525
+						],
+						"confidence": 0.871,
+						"span": {
+							"offset": 168,
+							"length": 4
+						}
+					},
+					{
+						"content": "a",
+						"polygon": [
+							724,
+							487,
+							746,
+							486,
+							746,
+							522,
+							725,
+							522
+						],
+						"confidence": 0.961,
+						"span": {
+							"offset": 173,
+							"length": 1
+						}
+					},
+					{
+						"content": "day",
+						"polygon": [
+							768,
+							486,
+							830,
+							486,
+							832,
+							523,
+							769,
+							522
+						],
+						"confidence": 0.998,
+						"span": {
+							"offset": 175,
+							"length": 3
+						}
+					},
+					{
+						"content": "signature",
+						"polygon": [
+							95,
+							866,
+							194,
+							865,
+							193,
+							891,
+							95,
+							892
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 179,
+							"length": 9
+						}
+					},
+					{
+						"content": "Mark",
+						"polygon": [
+							284,
+							848,
+							374,
+							824,
+							383,
+							860,
+							291,
+							881
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 189,
+							"length": 4
+						}
+					},
+					{
+						"content": "HOSPITAL",
+						"polygon": [
+							289,
+							1044,
+							419,
+							1041,
+							419,
+							1066,
+							289,
+							1067
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 194,
+							"length": 8
+						}
+					},
+					{
+						"content": "ST.",
+						"polygon": [
+							426,
+							1041,
+							466,
+							1040,
+							466,
+							1066,
+							426,
+							1066
+						],
+						"confidence": 0.998,
+						"span": {
+							"offset": 203,
+							"length": 3
+						}
+					},
+					{
+						"content": "MARIA",
+						"polygon": [
+							471,
+							1040,
+							557,
+							1041,
+							557,
+							1066,
+							470,
+							1066
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 207,
+							"length": 5
+						}
+					},
+					{
+						"content": "454",
+						"polygon": [
+							275,
+							1072,
+							300,
+							1072,
+							300,
+							1088,
+							275,
+							1088
+						],
+						"confidence": 0.747,
+						"span": {
+							"offset": 213,
+							"length": 3
+						}
+					},
+					{
+						"content": "LAKE",
+						"polygon": [
+							304,
+							1072,
+							343,
+							1071,
+							343,
+							1088,
+							304,
+							1088
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 217,
+							"length": 4
+						}
+					},
+					{
+						"content": "AVE.",
+						"polygon": [
+							346,
+							1071,
+							378,
+							1071,
+							378,
+							1088,
+							346,
+							1088
+						],
+						"confidence": 0.715,
+						"span": {
+							"offset": 222,
+							"length": 4
+						}
+					},
+					{
+						"content": "WORCESTER,",
+						"polygon": [
+							382,
+							1071,
+							476,
+							1070,
+							476,
+							1087,
+							382,
+							1088
+						],
+						"confidence": 0.804,
+						"span": {
+							"offset": 227,
+							"length": 10
+						}
+					},
+					{
+						"content": "MAINE",
+						"polygon": [
+							479,
+							1070,
+							525,
+							1070,
+							525,
+							1087,
+							479,
+							1087
+						],
+						"confidence": 0.803,
+						"span": {
+							"offset": 238,
+							"length": 5
+						}
+					},
+					{
+						"content": "DIG04",
+						"polygon": [
+							528,
+							1070,
+							568,
+							1070,
+							568,
+							1087,
+							528,
+							1087
+						],
+						"confidence": 0.345,
+						"span": {
+							"offset": 244,
+							"length": 5
+						}
+					},
+					{
+						"content": "PHONE:",
+						"polygon": [
+							170,
+							1094,
+							215,
+							1093,
+							215,
+							1109,
+							170,
+							1109
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 250,
+							"length": 6
+						}
+					},
+					{
+						"content": "(508)",
+						"polygon": [
+							218,
+							1093,
+							257,
+							1093,
+							257,
+							1108,
+							218,
+							1109
+						],
+						"confidence": 0.736,
+						"span": {
+							"offset": 257,
+							"length": 5
+						}
+					},
+					{
+						"content": "752-5525,",
+						"polygon": [
+							260,
+							1093,
+							320,
+							1092,
+							320,
+							1108,
+							260,
+							1108
+						],
+						"confidence": 0.723,
+						"span": {
+							"offset": 263,
+							"length": 9
+						}
+					},
+					{
+						"content": "HOSPITALHAMEDMAIL.COM",
+						"polygon": [
+							323,
+							1092,
+							508,
+							1091,
+							508,
+							1107,
+							323,
+							1108
+						],
+						"confidence": 0.146,
+						"span": {
+							"offset": 273,
+							"length": 21
+						}
+					},
+					{
+						"content": "WWW.",
+						"polygon": [
+							521,
+							1091,
+							569,
+							1090,
+							569,
+							1106,
+							521,
+							1107
+						],
+						"confidence": 0.169,
+						"span": {
+							"offset": 295,
+							"length": 4
+						}
+					},
+					{
+						"content": "SPITALNAME.COM",
+						"polygon": [
+							581,
+							1091,
+							699,
+							1090,
+							700,
+							1104,
+							581,
+							1106
+						],
+						"confidence": 0.684,
+						"span": {
+							"offset": 300,
+							"length": 14
+						}
+					}
+				],
+				"lines": [
+					{
+						"content": "PRESCRIPTION",
+						"polygon": [
+							416,
+							27,
+							595,
+							26,
+							595,
+							52,
+							416,
+							52
+						],
+						"spans": [
+							{
+								"offset": 0,
+								"length": 12
+							}
+						]
+					},
+					{
+						"content": "Dr. Mark Smiths",
+						"polygon": [
+							404,
+							58,
+							609,
+							57,
+							609,
+							82,
+							404,
+							83
+						],
+						"spans": [
+							{
+								"offset": 13,
+								"length": 15
+							}
+						]
+					},
+					{
+						"content": "Patient Name",
+						"polygon": [
+							83,
+							201,
+							188,
+							200,
+							188,
+							217,
+							83,
+							220
+						],
+						"spans": [
+							{
+								"offset": 29,
+								"length": 12
+							}
+						]
+					},
+					{
+						"content": "Layanth",
+						"polygon": [
+							219,
+							183,
+							380,
+							181,
+							381,
+							216,
+							219,
+							217
+						],
+						"spans": [
+							{
+								"offset": 42,
+								"length": 7
+							}
+						]
+					},
+					{
+						"content": "Address",
+						"polygon": [
+							84,
+							227,
+							147,
+							226,
+							147,
+							243,
+							84,
+							244
+						],
+						"spans": [
+							{
+								"offset": 50,
+								"length": 7
+							}
+						]
+					},
+					{
+						"content": "Karur",
+						"polygon": [
+							241,
+							218,
+							334,
+							218,
+							334,
+							242,
+							240,
+							241
+						],
+						"spans": [
+							{
+								"offset": 58,
+								"length": 5
+							}
+						]
+					},
+					{
+						"content": "Date",
+						"polygon": [
+							82,
+							252,
+							121,
+							250,
+							121,
+							269,
+							82,
+							270
+						],
+						"spans": [
+							{
+								"offset": 64,
+								"length": 4
+							}
+						]
+					},
+					{
+						"content": "15-10-24",
+						"polygon": [
+							219,
+							243,
+							373,
+							243,
+							373,
+							268,
+							219,
+							268
+						],
+						"spans": [
+							{
+								"offset": 69,
+								"length": 8
+							}
+						]
+					},
+					{
+						"content": "Insurance",
+						"polygon": [
+							450,
+							200,
+							528,
+							199,
+							528,
+							215,
+							450,
+							216
+						],
+						"spans": [
+							{
+								"offset": 78,
+								"length": 9
+							}
+						]
+					},
+					{
+						"content": "NO",
+						"polygon": [
+							616,
+							192,
+							665,
+							187,
+							666,
+							211,
+							617,
+							215
+						],
+						"spans": [
+							{
+								"offset": 88,
+								"length": 2
+							}
+						]
+					},
+					{
+						"content": "Diagnosis",
+						"polygon": [
+							451,
+							223,
+							527,
+							222,
+							527,
+							246,
+							451,
+							246
+						],
+						"spans": [
+							{
+								"offset": 91,
+								"length": 9
+							}
+						]
+					},
+					{
+						"content": "cold",
+						"polygon": [
+							617,
+							218,
+							685,
+							217,
+							686,
+							241,
+							618,
+							242
+						],
+						"spans": [
+							{
+								"offset": 101,
+								"length": 4
+							}
+						]
+					},
+					{
+						"content": "Age",
+						"polygon": [
+							451,
+							253,
+							488,
+							252,
+							488,
+							275,
+							451,
+							276
+						],
+						"spans": [
+							{
+								"offset": 106,
+								"length": 3
+							}
+						]
+					},
+					{
+						"content": "15",
+						"polygon": [
+							631,
+							247,
+							662,
+							244,
+							662,
+							268,
+							631,
+							269
+						],
+						"spans": [
+							{
+								"offset": 110,
+								"length": 2
+							}
+						]
+					},
+					{
+						"content": "T. Homin",
+						"polygon": [
+							154,
+							358,
+							417,
+							354,
+							418,
+							391,
+							154,
+							397
+						],
+						"spans": [
+							{
+								"offset": 113,
+								"length": 8
+							}
+						]
+					},
+					{
+						"content": "T. P500",
+						"polygon": [
+							150,
+							427,
+							343,
+							425,
+							344,
+							465,
+							150,
+							468
+						],
+						"spans": [
+							{
+								"offset": 122,
+								"length": 7
+							}
+						]
+					},
+					{
+						"content": "once a day",
+						"polygon": [
+							629,
+							347,
+							829,
+							345,
+							829,
+							382,
+							629,
+							384
+						],
+						"spans": [
+							{
+								"offset": 130,
+								"length": 10
+							}
+						]
+					},
+					{
+						"content": "twice a day",
+						"polygon": [
+							617,
+							425,
+							824,
+							420,
+							825,
+							456,
+							617,
+							458
+						],
+						"spans": [
+							{
+								"offset": 141,
+								"length": 11
+							}
+						]
+					},
+					{
+						"content": "1. Moxiking CV",
+						"polygon": [
+							136,
+							500,
+							456,
+							501,
+							456,
+							537,
+							136,
+							536
+						],
+						"spans": [
+							{
+								"offset": 153,
+								"length": 14
+							}
+						]
+					},
+					{
+						"content": "Once a day",
+						"polygon": [
+							607,
+							490,
+							832,
+							485,
+							833,
+							522,
+							608,
+							525
+						],
+						"spans": [
+							{
+								"offset": 168,
+								"length": 10
+							}
+						]
+					},
+					{
+						"content": "signature",
+						"polygon": [
+							94,
+							865,
+							193,
+							865,
+							194,
+							890,
+							94,
+							892
+						],
+						"spans": [
+							{
+								"offset": 179,
+								"length": 9
+							}
+						]
+					},
+					{
+						"content": "Mark",
+						"polygon": [
+							270,
+							849,
+							392,
+							819,
+							401,
+							855,
+							276,
+							884
+						],
+						"spans": [
+							{
+								"offset": 189,
+								"length": 4
+							}
+						]
+					},
+					{
+						"content": "HOSPITAL ST. MARIA",
+						"polygon": [
+							289,
+							1041,
+							563,
+							1040,
+							563,
+							1065,
+							289,
+							1067
+						],
+						"spans": [
+							{
+								"offset": 194,
+								"length": 18
+							}
+						]
+					},
+					{
+						"content": "454 LAKE AVE. WORCESTER, MAINE DIG04",
+						"polygon": [
+							274,
+							1071,
+							571,
+							1069,
+							572,
+							1086,
+							274,
+							1088
+						],
+						"spans": [
+							{
+								"offset": 213,
+								"length": 36
+							}
+						]
+					},
+					{
+						"content": "PHONE: (508) 752-5525, HOSPITALHAMEDMAIL.COM WWW.",
+						"polygon": [
+							167,
+							1093,
+							569,
+							1090,
+							569,
+							1106,
+							167,
+							1109
+						],
+						"spans": [
+							{
+								"offset": 250,
+								"length": 49
+							}
+						]
+					},
+					{
+						"content": "SPITALNAME.COM",
+						"polygon": [
+							580,
+							1090,
+							705,
+							1089,
+							705,
+							1104,
+							580,
+							1106
+						],
+						"spans": [
+							{
+								"offset": 300,
+								"length": 14
+							}
+						]
+					}
+				],
+				"spans": [
+					{
+						"offset": 0,
+						"length": 314
+					}
+				],
+				"kind": "document"
+			}
+		],
+		"tables": [
+			{
+				"rowCount": 4,
+				"columnCount": 2,
+				"cells": [
+					{
+						"rowIndex": 0,
+						"columnIndex": 0,
+						"content": "Insurance",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									439,
+									182,
+									571,
+									181,
+									571,
+									213,
+									439,
+									213
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 78,
+								"length": 9
+							}
+						]
+					},
+					{
+						"rowIndex": 0,
+						"columnIndex": 1,
+						"content": "NO",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									571,
+									181,
+									741,
+									178,
+									741,
+									213,
+									571,
+									213
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 88,
+								"length": 2
+							}
+						]
+					},
+					{
+						"rowIndex": 1,
+						"columnIndex": 0,
+						"content": "Diagnosis",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									439,
+									213,
+									571,
+									213,
+									570,
+									239,
+									439,
+									240
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 91,
+								"length": 9
+							}
+						]
+					},
+					{
+						"rowIndex": 1,
+						"columnIndex": 1,
+						"content": "cold",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									571,
+									213,
+									741,
+									213,
+									741,
+									238,
+									570,
+									239
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 101,
+								"length": 4
+							}
+						]
+					},
+					{
+						"rowIndex": 2,
+						"columnIndex": 0,
+						"rowSpan": 2,
+						"content": "Age",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									439,
+									240,
+									570,
+									239,
+									569,
+									277,
+									438,
+									280
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 106,
+								"length": 3
+							}
+						]
+					},
+					{
+						"rowIndex": 2,
+						"columnIndex": 1,
+						"rowSpan": 2,
+						"content": "15",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									570,
+									239,
+									741,
+									238,
+									741,
+									278,
+									569,
+									277
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 110,
+								"length": 2
+							}
+						]
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							443,
+							189,
+							781,
+							186,
+							782,
+							271,
+							444,
+							274
+						]
+					}
+				],
+				"spans": [
+					{
+						"offset": 78,
+						"length": 34
+					}
+				]
+			}
+		],
+		"styles": [
+			{
+				"confidence": 0.5,
+				"spans": [
+					{
+						"offset": 29,
+						"length": 12
+					}
+				],
+				"isHandwritten": true
+			},
+			{
+				"confidence": 1,
+				"spans": [
+					{
+						"offset": 42,
+						"length": 7
+					},
+					{
+						"offset": 58,
+						"length": 5
+					},
+					{
+						"offset": 69,
+						"length": 8
+					},
+					{
+						"offset": 88,
+						"length": 2
+					},
+					{
+						"offset": 101,
+						"length": 4
+					},
+					{
+						"offset": 110,
+						"length": 68
+					},
+					{
+						"offset": 189,
+						"length": 4
+					}
+				],
+				"isHandwritten": true
+			},
+			{
+				"confidence": 0.4,
+				"spans": [
+					{
+						"offset": 50,
+						"length": 7
+					}
+				],
+				"isHandwritten": true
+			},
+			{
+				"confidence": 0.6,
+				"spans": [
+					{
+						"offset": 78,
+						"length": 9
+					},
+					{
+						"offset": 179,
+						"length": 9
+					}
+				],
+				"isHandwritten": true
+			},
+			{
+				"confidence": 0.95,
+				"spans": [
+					{
+						"offset": 91,
+						"length": 9
+					}
+				],
+				"isHandwritten": true
+			},
+			{
+				"confidence": 0.9,
+				"spans": [
+					{
+						"offset": 106,
+						"length": 3
+					}
+				],
+				"isHandwritten": true
+			}
+		],
+		"documents": [
+			{
+				"docType": "prescription",
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							0,
+							0,
+							860,
+							0,
+							860,
+							1134,
+							0,
+							1134
+						]
+					}
+				],
+				"fields": {
+					"Name": {
+						"type": "string",
+						"valueString": "Layanth",
+						"content": "Layanth",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									224,
+									181,
+									376,
+									181,
+									376,
+									217,
+									224,
+									217
+								]
+							}
+						],
+						"confidence": 0.92,
+						"spans": [
+							{
+								"offset": 42,
+								"length": 7
+							}
+						]
+					},
+					"Address": {
+						"type": "string",
+						"valueString": "Karur",
+						"content": "Karur",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									248,
+									219,
+									333,
+									219,
+									333,
+									243,
+									248,
+									243
+								]
+							}
+						],
+						"confidence": 0.937,
+						"spans": [
+							{
+								"offset": 58,
+								"length": 5
+							}
+						]
+					},
+					"Insurance": {
+						"type": "string",
+						"valueString": "NO",
+						"content": "NO",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									631,
+									187,
+									665,
+									187,
+									665,
+									213,
+									631,
+									213
+								]
+							}
+						],
+						"confidence": 0.872,
+						"spans": [
+							{
+								"offset": 88,
+								"length": 2
+							}
+						]
+					},
+					"Diagnosis": {
+						"type": "string",
+						"valueString": "cold",
+						"content": "cold",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									621,
+									218,
+									685,
+									218,
+									685,
+									242,
+									621,
+									242
+								]
+							}
+						],
+						"confidence": 0.918,
+						"spans": [
+							{
+								"offset": 101,
+								"length": 4
+							}
+						]
+					},
+					"Age": {
+						"type": "integer",
+						"valueInteger": 15,
+						"content": "15",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									633,
+									244,
+									662,
+									244,
+									662,
+									269,
+									633,
+									269
+								]
+							}
+						],
+						"confidence": 0.859,
+						"spans": [
+							{
+								"offset": 110,
+								"length": 2
+							}
+						]
+					},
+					"date": {
+						"type": "date",
+						"valueDate": "2024-10-15",
+						"content": "15-10-24",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									220,
+									244,
+									373,
+									244,
+									373,
+									269,
+									220,
+									269
+								]
+							}
+						],
+						"confidence": 0.919,
+						"spans": [
+							{
+								"offset": 69,
+								"length": 8
+							}
+						]
+					},
+					"sign": {
+						"type": "string",
+						"valueString": "Mark",
+						"content": "Mark",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									284,
+									824,
+									383,
+									824,
+									383,
+									881,
+									284,
+									881
+								]
+							}
+						],
+						"confidence": 0.82,
+						"spans": [
+							{
+								"offset": 189,
+								"length": 4
+							}
+						]
+					},
+					"tablets": {
+						"type": "array",
+						"valueArray": [
+							{
+								"type": "object",
+								"valueObject": {
+									"medicine name": {
+										"type": "string",
+										"valueString": "T. Homin",
+										"content": "T. Homin",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													160,
+													355,
+													413,
+													355,
+													413,
+													398,
+													160,
+													398
+												]
+											}
+										],
+										"spans": [
+											{
+												"offset": 113,
+												"length": 8
+											}
+										]
+									},
+									"dosage": {
+										"type": "string",
+										"valueString": "once a day",
+										"content": "once a day",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													630,
+													345,
+													830,
+													345,
+													830,
+													384,
+													630,
+													384
+												]
+											}
+										],
+										"spans": [
+											{
+												"offset": 130,
+												"length": 10
+											}
+										]
+									}
+								}
+							},
+							{
+								"type": "object",
+								"valueObject": {
+									"medicine name": {
+										"type": "string",
+										"valueString": "T. P500",
+										"content": "T. P500",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													156,
+													426,
+													341,
+													426,
+													341,
+													469,
+													156,
+													469
+												]
+											}
+										],
+										"spans": [
+											{
+												"offset": 122,
+												"length": 7
+											}
+										]
+									},
+									"dosage": {
+										"type": "string",
+										"valueString": "twice a day",
+										"content": "twice a day",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													618,
+													421,
+													825,
+													421,
+													825,
+													458,
+													618,
+													458
+												]
+											}
+										],
+										"spans": [
+											{
+												"offset": 141,
+												"length": 11
+											}
+										]
+									}
+								}
+							},
+							{
+								"type": "object",
+								"valueObject": {
+									"medicine name": {
+										"type": "string",
+										"valueString": "1. Moxiking CV",
+										"content": "1. Moxiking CV",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													137,
+													500,
+													457,
+													500,
+													457,
+													537,
+													137,
+													537
+												]
+											}
+										],
+										"spans": [
+											{
+												"offset": 153,
+												"length": 14
+											}
+										]
+									},
+									"dosage": {
+										"type": "string",
+										"valueString": "Once a day",
+										"content": "Once a day",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													617,
+													486,
+													832,
+													486,
+													832,
+													525,
+													617,
+													525
+												]
+											}
+										],
+										"spans": [
+											{
+												"offset": 168,
+												"length": 10
+											}
+										]
+									}
+								}
+							}
+						]
+					}
+				},
+				"confidence": 0.997,
+				"spans": [
+					{
+						"offset": 0,
+						"length": 314
+					}
+				]
+			}
+		]
+	}
+}
